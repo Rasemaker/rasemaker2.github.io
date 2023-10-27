@@ -1,0 +1,62 @@
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+    body, h1 {color: darkred;} h2{color:  darkred;} h3, h4, h5, h6  { color: rgb(9, 32, 32);
+          
+  font-family: 'Silkscreen', cursive;
+  
+
+}
+h1{color:darkred;
+          
+  font-family: 'Silkscreen', cursive;
+  
+}
+   
+
+
+body{
+
+background-image:url("img/ArtStation\ -\ Explore.gif" );
+background-position: relative;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 5px;
+  padding: 0px;
+  overflow: hidden;
+  background-color:none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px 14px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(48, 49, 122);
+}
+body {
+background-image: url("img/ArtStation\ -\ Explore.gif");
+
+background-repeat: no-repeat;   
+background-attachment:center;
+background-size: cover;     
+background-position:relative;
+
+
+     
+}
